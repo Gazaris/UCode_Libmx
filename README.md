@@ -75,6 +75,8 @@ Function name|Description|
 |```mx_list_size```|Function that calculates the number of nodes in the linked list.|
 |```mx_sort_list```|Function that sorts the list’s contents in ascending order. Function ``` cmp ``` returns true if ```a ``` > ``` b``` and false in other cases.|
 
+<center>
+    
 ## Other useful functions
 Function name|Description|
 |-------------|----------------------------------------------------|
@@ -82,6 +84,8 @@ Function name|Description|
 |```mx_isdigit```|Function that has the same behaviour as standard libc function ```isdigit``` .|
 |```mx_isalpha```|Function that has the same behaviour as standard libc function ```isalpha``` .|
 |```mx_atoi```|Function that takes an ASCII-incoded string and outputs it as an integer.|
+
+</center>
 
 <footer>
     <h3 align="center">Total mark is 95</h3>
