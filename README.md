@@ -88,6 +88,6 @@ Function name|Description|
 </center>
 
 <footer>
-    <h3 align="center">Total mark is 95</h3>
+    <h3 align="center">Total mark is 84</h3>
 </footer>
 
