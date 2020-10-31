@@ -1,6 +1,6 @@
 <head>
     <p align="center">
-        <h2 align="center">This is a library of my own UCode functions that was made for the challenge Libmx and/or during all previous callenges.</h2>
+        <h2 align="center">This is a library of my own UCode functions that was made for the challenge Libmx and/or during all previous challenges.</h2>
     </p>
 </head>
 
